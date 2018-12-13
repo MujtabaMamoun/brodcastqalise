@@ -10,9 +10,9 @@ let color = botconfig.color;
 
 var con = mysql.createConnection({
   host: "den1.mysql4.gear.host",
-  user: "snowbot",
+  user: "Qalise",
   password: "Sc7?!5u9rgZN",
-  database: "snowbot"
+  database: "Qalise"
 });
 
 con.connect(err => {
